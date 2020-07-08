@@ -1,0 +1,4 @@
+#Wed Jul 08 15:54:55 MSK 2020
+base.0=C\:\\Users\\Admin\\AnProjects\\AD_Cal_Share-master\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
